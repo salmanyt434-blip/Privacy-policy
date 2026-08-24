@@ -1,0 +1,186 @@
+Privacy Policy
+
+Last Updated: August 2026
+
+Welcome to Premium AI Camera Scanner ("App", "we", "our", or "us"). This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
+
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+1. Information We Collect
+
+Information You Provide
+
+- Documents and images you choose to scan.
+- Files you create, edit, import, or export.
+- Customer support communications.
+
+Automatically Collected Information
+
+- Device model and operating system version.
+- App usage statistics.
+- Crash reports and diagnostics.
+- Subscription and purchase status.
+- Advertising identifiers where applicable.
+
+Camera Access
+
+The App requires camera permission to scan documents and create PDFs. Images captured by the camera are processed to provide scanning features.
+
+Storage Access
+
+The App may require storage access to save, open, edit, and manage PDF, DOC, DOCX, TXT, and other supported document files.
+
+2. How We Use Information
+
+We use information to:
+
+- Provide document scanning services.
+- Create and manage PDF files.
+- Enable OCR text recognition.
+- Improve app performance and stability.
+- Process subscriptions and purchases.
+- Provide customer support.
+- Prevent fraud and abuse.
+- Comply with legal obligations.
+
+3. OCR and AI Processing
+
+If OCR or AI-powered features are used:
+
+- Images and documents may be processed to extract text.
+- Processing may occur locally on the device or through secure cloud services.
+- Extracted text is used solely to provide requested features.
+
+4. Subscription and Payments
+
+Subscriptions and purchases are processed through authorized app stores such as Google Play.
+
+We do not collect or store:
+
+- Credit card numbers
+- Bank account details
+- Payment passwords
+
+Payment information is handled directly by the respective app store provider.
+
+5. Advertising
+
+The free version of the App may display advertisements.
+
+Advertising partners may collect:
+
+- Advertising identifiers
+- Device information
+- Basic interaction data
+
+This information helps deliver and measure advertisements.
+
+Premium subscribers may receive an ad-free experience.
+
+6. Analytics and Crash Reporting
+
+We may use analytics and crash-reporting services to:
+
+- Monitor app performance
+- Identify technical issues
+- Improve user experience
+- Measure feature usage
+
+Collected information may include:
+
+- Device type
+- Operating system version
+- App version
+- Crash logs
+- Anonymous usage statistics
+
+7. Cloud Storage Services
+
+If you choose to connect cloud storage providers such as Google Drive, Dropbox, or OneDrive:
+
+- Access is limited to files you choose to upload or download.
+- Authentication is managed by the respective provider.
+- We do not access files without your authorization.
+
+8. Data Security
+
+We implement reasonable technical and organizational measures to protect your information.
+
+Security measures may include:
+
+- Encrypted connections (HTTPS)
+- Secure authentication mechanisms
+- Access controls
+- Application security monitoring
+
+No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+9. Data Retention
+
+Documents and files remain under your control.
+
+Data may be retained:
+
+- As long as necessary to provide services.
+- To comply with legal obligations.
+- To resolve disputes and enforce agreements.
+
+You may delete documents stored on your device at any time.
+
+10. Children's Privacy
+
+The App is not directed toward children under the age required by applicable law in their jurisdiction.
+
+We do not knowingly collect personal information from children. If we become aware that such information has been collected, appropriate steps will be taken to remove it.
+
+11. Your Rights
+
+Depending on your location, you may have rights regarding your personal information, including:
+
+- Access to your data
+- Correction of inaccurate data
+- Deletion of data
+- Restriction of processing
+- Data portability
+- Objection to certain processing activities
+
+Requests may be submitted using the contact information below.
+
+12. Third-Party Services
+
+The App may use third-party services, including:
+
+- Google Play Services
+- Google Play Billing
+- Firebase Analytics
+- Firebase Crashlytics
+- Google AdMob
+- Cloud Storage Providers
+
+These services operate under their own privacy policies.
+
+13. International Data Transfers
+
+Your information may be processed in countries other than your country of residence. Appropriate safeguards may be applied where required by law.
+
+14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Changes become effective when the updated Privacy Policy is published within the App or on the associated website.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+15. Contact Us
+
+If you have questions regarding this Privacy Policy, please contact us:
+
+App Name: Premium AI Camera Scanner
+
+Email: support@example.com
+
+Website: https://example.com
+
+Consent
+
+By downloading, installing, or using Premium AI Camera Scanner, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
